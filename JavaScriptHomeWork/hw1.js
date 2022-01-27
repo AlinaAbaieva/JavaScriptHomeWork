@@ -5,7 +5,7 @@ function f(parameter) {
     if (isNaN(parToNum)) {
         alert("Parameter is not a number.");
     } else {
-        alert(parToNum**2);
+        alert(parToNum**3);
     }
 
  }
